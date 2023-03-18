@@ -65,3 +65,17 @@
     }
 
 }
+
+/* Break fix */
+
+@media screen and (min-width: 768px) and (max-width: 1160px) {
+    
+    header {
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+}
